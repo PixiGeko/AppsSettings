@@ -1,0 +1,22 @@
+[
+	{
+		"url": "https://discord.gg/kR3t5AxxjJ",
+		"image": "https://raw.githubusercontent.com/PixiGeko/AppsSettings/master/images/discord.png",
+		"description": "Discord"
+	},
+	{
+		"url": "https://twitter.com/PixiGeko",
+		"image": "https://raw.githubusercontent.com/PixiGeko/AppsSettings/master/images/twitter.png",
+		"description": "@PixiGeko"
+	},
+	{
+		"url": "https://twitter.com/PixiPointExe",
+		"image": "https://raw.githubusercontent.com/PixiGeko/AppsSettings/master/images/twitter.png",
+		"description": "@PixiPointExe"
+	},
+	{
+		"url": "https://github.com/PixiGeko",
+		"image": "https://raw.githubusercontent.com/PixiGeko/AppsSettings/master/images/github.png",
+		"description": "Github"
+	}
+]
